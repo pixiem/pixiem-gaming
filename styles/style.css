@@ -56,6 +56,10 @@ body{
     background-color: #e1c699;
    
 }
+.block span a{
+    text-decoration: none;
+    color: black;
+}
 .thumbnail img{
     margin-top: 15px;
     border-radius: 22px;
