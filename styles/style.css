@@ -147,6 +147,17 @@ footer{
         align-items: center;
 
     }
+    .social{
+        display: flex;
+        padding-left: 0;
+        justify-content: space-between;
+        
+    }
+    .flexing {
+        margin-bottom: 20px;
+        margin-top: 20px;
+
+    }
     
     
 }
