@@ -60,7 +60,8 @@ body{
     text-decoration: none;
     color: black;
 }
-.thumbnail img{
+.thumbnail img, iframe{
+    height: 170px;
     margin-top: 15px;
     border-radius: 22px;
     width: 250px;
