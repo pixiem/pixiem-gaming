@@ -49,6 +49,29 @@ body{
     padding: 15px;
     margin: 30px;
 }
+.social{
+    background-color: #FDDB27FF;
+    padding-left: 200px;
+    display: grid;
+    grid-template-columns: repeat( 3, 1fr);
+    margin-bottom: 50px;
+    border: 2px solid black;
+
+}
+.logo{
+    color: black;
+    font-size: 30px;
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+    
+}
+.social-media a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
 
 
 .gameplay{
